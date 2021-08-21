@@ -8,11 +8,13 @@
 		<version>2.5.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+	
 	<groupId>com.management</groupId>
 	<artifactId>EmployeeManagement</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>EmployeeManagement</name>
 	<description>Demo project for Manageemnt</description>
+	<packaging>war</packaging>
 	<properties>
 		<java.version>1.8</java.version>
 	
